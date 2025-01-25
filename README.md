@@ -32,18 +32,3 @@ Une application web simple et efficace pour gérer vos produits avec des fonctio
 1. **Clonez ce dépôt** :
    ```bash
    git clone https://github.com/SALMA-Zrd/Gestion_Des_Produits.git
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
